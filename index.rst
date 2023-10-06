@@ -1,8 +1,15 @@
-SOPLE - Sistema de Oferta Pública e Leilão de Áreas
-===================================================
+Welcome to 1q's documentation!
+==============================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Apresentação SOPLE
-   
-   _perguntasfaq/1.0oQueESOPLE.rst
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
